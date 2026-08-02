@@ -1,0 +1,8 @@
+
+    An AI Engineer designs, builds, and deploys applications powered by artificial intelligence.
+They use programming languages like Python and work with machine learning and deep learning models.
+AI Engineers integrate technologies such as LLMs, RAG, vector databases, and APIs into real-world applications.
+They preprocess data, train or fine-tune models, and optimize AI systems for accuracy and performance.
+They collaborate with software developers and data scientists to create scalable AI solutions.
+AI Engineers continuously test, monitor, and improve AI applications to ensure reliability, efficiency, and a good user experience.
+    
